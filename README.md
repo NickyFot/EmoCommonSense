@@ -3,7 +3,8 @@
 Authors official PyTorch implementation of the **[VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning]()**. If you use this code for your research, please [**cite**](#citation) our paper.
 
 > **VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning**<br>
-> Alexandros Xenos, Niki Maria Foteinopoulou, Ioanna Ntinou, Ioannis Patras and Georgios Tzimiropoulos<br>
+> Alexandros Xenos*, Niki Maria Foteinopoulou*, Ioanna Ntinou*, Ioannis Patras and Georgios Tzimiropoulos<br>
+> *Denotes equal contribution 
 > <br>
 > ![summary](figs/method.svg)
 >
