@@ -1,6 +1,6 @@
 # EmoCommonSense
 
-Authors official PyTorch implementation of the **[VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning]()**. If you use this code for your research, please [**cite**](#citation) our paper.
+Authors official PyTorch implementation of the **[VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning](https://arxiv.org/abs/2404.07078)**. If you use this code for your research, please [**cite**](#citation) our paper.
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vllms-provide-better-context-for-emotion/emotion-recognition-in-context-on-bold)](https://paperswithcode.com/sota/emotion-recognition-in-context-on-bold?p=vllms-provide-better-context-for-emotion)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vllms-provide-better-context-for-emotion/emotion-recognition-in-context-on-caer-1)](https://paperswithcode.com/sota/emotion-recognition-in-context-on-caer-1?p=vllms-provide-better-context-for-emotion)
@@ -20,6 +20,9 @@ Authors official PyTorch implementation of the **[VLLMs Provide Better Context f
  An overview of our proposed method. We first use LlaVa-1.5, a pre-trained VLLM, to extract language descriptions about the subject's apparent emotion and context (left). The image-description pairs then train our architecture, consisting of a vision encoder ($E_V$), a set of learnable queries ($Q$), a Q-Former module and a Fully Connected layer that performs the final classification on the emotion prediction task. When bounding boxes are available in the annotations, we draw them on the input image so that the model differentiates the subjects and so that the image and generated description are aligned.
 </p>
 
+## Notes:
+
+Full code to be released upon publication.
 
 ## Acknowledgements
 
