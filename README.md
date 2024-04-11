@@ -22,4 +22,11 @@ Authors official PyTorch implementation of the **[VLLMs Provide Better Context f
 This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Research-IT. http://doi.org/10.5281/zenodo.438045
 
 ## Citation
-TBD
+@article{xenos_vllms_2024,
+	title = {{VLLMs} {Provide} {Better} {Context} for {Emotion} {Understanding} {Through} {Common} {Sense} {Reasoning}},
+	publisher = {arXiv},
+	author = {Xenos, Alexandros and Foteinopoulou, Niki Maria and Ntinou, Ioanna and Patras, Ioannis and Tzimiropoulos, Georgios},
+	month = apr,
+	year = {2024},
+	journal = {arXiv:2404.07078}
+}
