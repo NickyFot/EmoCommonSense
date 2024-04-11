@@ -2,6 +2,10 @@
 
 Authors official PyTorch implementation of the **[VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning]()**. If you use this code for your research, please [**cite**](#citation) our paper.
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vllms-provide-better-context-for-emotion/emotion-recognition-in-context-on-bold)](https://paperswithcode.com/sota/emotion-recognition-in-context-on-bold?p=vllms-provide-better-context-for-emotion)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vllms-provide-better-context-for-emotion/emotion-recognition-in-context-on-caer-1)](https://paperswithcode.com/sota/emotion-recognition-in-context-on-caer-1?p=vllms-provide-better-context-for-emotion)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vllms-provide-better-context-for-emotion/emotion-recognition-in-context-on-emotic)](https://paperswithcode.com/sota/emotion-recognition-in-context-on-emotic?p=vllms-provide-better-context-for-emotion)
+
 > **VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning**<br>
 > Alexandros Xenos*, Niki Maria Foteinopoulou*, Ioanna Ntinou*, Ioannis Patras and Georgios Tzimiropoulos<br>
 > *Denotes equal contribution 
